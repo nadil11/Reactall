@@ -1,0 +1,156 @@
+.image{
+    width: 100%;
+    margin-top: 3rem;
+}
+
+
+.head{
+    font-size: 40px;
+    color: #326a9d;
+}
+
+.para1{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.btnn{
+    padding: 7px;
+    border-radius: 6px;
+    background: transparent;
+    border-color: #4c7daa;
+    color: #4c7daa;
+    margin-top: 1rem;
+}
+
+.sub-part1{
+    margin-top: -20rem;
+    margin-left: 2rem;
+}
+
+.image1{
+    width: 100%;
+    margin-top: 10rem;
+}
+
+.sub-part2{
+    text-align: right;
+    margin-top: -17rem;
+    margin-right: 10rem;
+} 
+
+.head2{
+    font-size: 40px;
+    color: #326a9d;
+}
+
+.para2{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.btnn2{
+    padding: 7px;
+    border-radius: 6px;
+    background: transparent;
+    border-color: #4c7daa;
+    color: #4c7daa;
+    margin-top: 1rem;
+}
+
+.image3{
+    margin-top: 8rem;
+    width: 100%;
+}
+
+.head3{
+    font-size: 40px;
+    color: #326a9d;
+}
+
+.para3{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.btnn3{
+    padding: 7px;
+    border-radius: 6px;
+    background: transparent;
+    border-color: #4c7daa;
+    color: #4c7daa;
+    margin-top: 1rem;
+}
+
+.sub-part3{
+    margin-top: -16rem;
+    text-align: center;
+
+}
+
+/* .image{
+    width: 100%;
+    position: relative;
+}
+
+.part1{
+    width: 95%;
+    padding: 1rem;
+    position: absolute;
+}
+
+.sub-part1{
+    position: relative;
+    margin-top: -16rem;
+    margin-left: 3rem;
+
+}
+
+.head{
+    font-size: 40px;
+    color: #326a9d;
+}
+
+.para1{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.btnn{
+    padding: 7px;
+    border-radius: 6px;
+    background: transparent;
+    border-color: #4c7daa;
+    color: #4c7daa;
+    margin-top: 1rem;
+}
+
+
+.part2{
+    padding-top: 23rem;
+    display: flex;
+}
+
+.image1{
+    width: 100%;
+}
+
+
+.head2{
+    font-size: 40px;
+    color: #326a9d;
+}
+
+.para2{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.btnn2{
+    padding: 7px;
+    border-radius: 6px;
+    background: transparent;
+    border-color: #4c7daa;
+    color: #4c7daa;
+    margin-top: 1rem;
+} */
